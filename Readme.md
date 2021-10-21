@@ -1,2 +1,2 @@
-Hello class
-Second edit
+Hello class.
+Second edit.
